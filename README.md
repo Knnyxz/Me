@@ -6,9 +6,8 @@ Estudante de programação, focado em evoluir como desenvolvedor e sempre aprend
 
 ## 🧠 Sobre mim
 
-* 🎯 Buscando minha primeira oportunidade como dev
-* 💡 Interesse em desenvolvimento web
-* ⚡ Gosto de aprender na prática
+* Tenho 18 anos e atualmente tenho concluido o Ensino Médio Técnico em Informática (UNIVAP).
+* Buscando oportunidades como dev
 
 ---
 
