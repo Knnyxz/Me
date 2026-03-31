@@ -54,8 +54,6 @@
 
 ---
 
-## Contribuições
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Knnyxz/Knnyxz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Knnyxz/Knnyxz/output/github-contribution-grid-snake.svg?palette=github-dark" alt="Snake animation" />
 </p>
