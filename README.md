@@ -55,16 +55,14 @@ Estudante de programação, focado em evoluir como desenvolvedor e sempre aprend
 
 ---
 
-## 
-
-![Snake animation](https://github.com/Knnyxz/Me/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contato
 
 * 💼 LinkedIn: [João Gabriel](https://www.linkedin.com/in/jo%C3%A3o-gabriel-fernandes-oliveira-16707a297/)
 * 📧 Email: joaogabrielfo.oficial@gmail.com
+
+---
+
+![Snake animation](https://github.com/Knnyxz/Me/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
