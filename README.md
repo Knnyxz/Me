@@ -38,8 +38,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=knnyxz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=86400" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knnyxz&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=86400" alt="Top languages" />
+  <img src="images/userstats.svg" alt="GitHub stats" />
 </p>
 
 ---
