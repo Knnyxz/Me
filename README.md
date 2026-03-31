@@ -30,7 +30,7 @@ Estudante de programação, focado em evoluir como desenvolvedor e sempre aprend
 
 ### ⚙️ Back-end
 
-* 🔌 REST APIs
+* REST APIs
 
 ---
 
@@ -44,18 +44,18 @@ Estudante de programação, focado em evoluir como desenvolvedor e sempre aprend
 
 ### 🌐 Infraestrutura & Redes
 
-* 🖧 Redes de computadores
-* 🛠️ Manutenção de computadores
+* Redes de computadores
+* Manutenção de computadores
 
 ---
 
 ### 🔐 CyberSegurança
 
-* 🛡️ Conceitos básicos de segurança da informação
+* Conceitos básicos de segurança da informação
 
 ---
 
-## 🔥 Contribuições
+## 
 
 ![Snake animation](https://github.com/Knnyxz/Me/blob/output/github-contribution-grid-snake.svg)
 
