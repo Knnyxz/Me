@@ -20,7 +20,7 @@
 ## Tecnologias que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,php,js,react,html,css,mysql,mongodb,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,php,js,react,html,css,mysql,mongodb,git,docker,linux,ubuntu" />
 </p>
 
 ---
