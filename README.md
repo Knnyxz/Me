@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou o João Gabriel
 
-*💻 Estudante de programação
-*🚀 Focado em evoluir como desenvolvedor
-*📚 Sempre aprendendo novas tecnologias
+💻 Estudante de programação
+
+🚀 Focado em evoluir como desenvolvedor
+
+📚 Sempre aprendendo novas tecnologias
 
 ---
 
